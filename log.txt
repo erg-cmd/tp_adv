@@ -1,0 +1,25 @@
+Sun Nov 28 22:30:23 2021: Se ha detectado: guardado de la persona: User
+Sun Nov 28 22:57:51 2021: Se ha detectado: eliminado de la persona: 4
+Sun Nov 28 22:59:25 2021: Se ha detectado: guardado de la persona: daniel
+Sun Nov 28 22:59:57 2021: Se ha detectado: modificado de la persona: ---
+Sun Nov 28 23:15:45 2021: Se ha detectado: Alta de la persona: Joji
+Registro Afectado:  Joji ,  hambre ,  
+Sun Nov 28 23:16:06 2021: Se ha detectado: guardado de la persona: Jorge
+Sun Nov 28 23:17:03 2021: Se ha detectado: Alta de la persona: Jojii
+Registro Afectado:  Jojii ,  Hmabre2 ,  
+Sun Nov 28 23:17:20 2021: Se ha detectado: guardado de la persona: Marcelo
+Registro Afectado:  Marcelo ,  Perro ,  
+Sun Nov 28 23:17:39 2021: Se ha detectado: modificado de la persona: 5
+Registro Afectado:  5 ,  Rafa ,  Barba
+Sun Nov 28 23:17:48 2021: Se ha detectado: eliminado de la persona: 3
+Sun Nov 28 23:18:31 2021: Se ha detectado: eliminado de la persona: 3
+Sun Nov 28 23:18:35 2021: Se ha detectado: eliminado de la persona: 3
+Sun Nov 28 23:34:47 2021: ACCION: eliminado de la persona: 3
+Sun Nov 28 23:34:57 2021: ACCION: Alta de la persona: Flor
+Registro Afectado:  Flor ,  estaba ,  
+Sun Nov 28 23:35:15 2021: ACCION: modificado de la persona: 9
+Registro Afectado:  9 ,  JOJO ,  asdasd
+Sun Nov 28 23:35:35 2021: ACCION: guardado de la persona: rafael
+Registro Afectado:  rafael ,  nono ,  
+Sun Nov 28 23:35:45 2021: ACCION: eliminado de la persona: 3
+Sun Nov 28 23:35:58 2021: ACCION: eliminado de la persona: 2
